@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Lucas Vaz 👋
 
-- 🔭 Atualmente estou estudando programação com objetivos em mudar de carreira.
+- 🔭 Atualmente estou estudando programação com objetivos de iniciar uma carreira profissional.
 - 🧑‍🎓 Universitário cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília - UCB.
 - 📖 Sou um Cadete da escola 42 São Paulo - A arte em aprender a aprender.
 
