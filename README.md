@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente estou estudando programação com objetivos de iniciar uma carreira profissional.
 - 🧑‍🎓 Universitário cursando Análise e Desenvolvimento de Sistemas na Universidade Católica de Brasília - UCB.
-- 📖 -
+- 📖 Focando nos estudos específicos em Java
 
 
 <div>
